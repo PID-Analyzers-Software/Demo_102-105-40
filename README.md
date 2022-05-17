@@ -1,5 +1,7 @@
 # Demo_102-105-40
 Connection for the I2C display
+
+
 <img width="490" alt="image" src="https://user-images.githubusercontent.com/26637782/168855798-4840fba1-a7ff-44ab-8bd1-a66ff55e3a66.png">
 
 ![unnamed](https://user-images.githubusercontent.com/26637782/168088328-a590d469-5198-41a4-b133-9d23ad0b1b8e.jpg)
